@@ -1,3 +1,5 @@
-# Programy w C
+# Programs w C
 
-Stworzone na potrzeby laboratoriów podczas kursu Systemy operacyjne AGH
+Created for the laboratories during the AGH UST Operating Systems course
+
+
